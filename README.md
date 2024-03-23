@@ -1,2 +1,1 @@
-# Data-Analysis-using-Pyspark
-Data Analysis using Pyspark
+In this project, I have worked with the PySpark module in Python, utilizing the Google Colab environment to execute queries on a dataset related to the Last.fm website. This website served as an online music service where users could listen to various songs. The dataset comprised two CSV files: listening.csv and genre.csv. Additionally, I explored how to visualize query results using Matplotlib.
